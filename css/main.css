@@ -1,0 +1,14 @@
+nav{
+	width: 100%;
+	background: orange;
+	padding-top: 1px;
+	padding-bottom: 10px;
+}
+
+.card{
+	border: 1px solid #ccc;
+	width: 100%;
+}
+.pict{
+	width: 100%;
+}
